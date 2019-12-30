@@ -104,7 +104,7 @@ public class TablonClient {
 				
 				System.out.println("1. Siguiente.");
 				System.out.println("2. Anterior.");
-				System.out.println("3. Salir.");
+				System.out.println("Cualquier tecla: Salir.");
 				System.out.println("Introduce opción: ");
 				n = e.next();
 			}
